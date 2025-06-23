@@ -1,0 +1,30 @@
+{
+    "dew_point": {
+        "alert": {
+            "max": 22.0
+        },
+        "critical": {
+            "max": 25.0
+        }
+    },
+    "humidity": {
+        "alert": {
+            "max": 70.0,
+            "min": 40.0
+        },
+        "critical": {
+            "max": 80.0,
+            "min": 30.0
+        }
+    },
+    "temperature": {
+        "alert": {
+            "max": 30.0,
+            "min": 15.0
+        },
+        "critical": {
+            "max": 35.0,
+            "min": 10.0
+        }
+    }
+}
